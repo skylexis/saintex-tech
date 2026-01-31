@@ -47,9 +47,3 @@ Add a license file to make the project terms clear (e.g., MIT). If you prefer, I
 Maintained by skylexis — open an issue or submit a pull request for questions or updates.
 
 ---
-
-If you'd like, I can:
-- Tailor the README to a specific purpose (portfolio, agency, product landing page).
-- Generate sample content for each section (About, Services, Projects).
-- Add a LICENSE file or GitHub Pages deployment instructions step-by-step.
-Tell me which you want next and I’ll apply it.
