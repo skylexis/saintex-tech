@@ -1,4 +1,4 @@
-# Saintex Tech
+# Saintlex Tech
 
 your trusted partner in digital excellence.
 
